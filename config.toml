@@ -1,4 +1,22 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'archie'
+baseURL = 'https://dekuso.blog/'
+languageCode = 'de'
+defaultContentLang = "de-de"
+title = "dekuso's blog"
+theme = "archie"
+
+[params]
+  dateFormat = "01.02.2006"
+  mode="light" # color-mode → light,dark,toggle or auto
+  useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+  mathjax = false # enable MathJax support
+  katex = false # enable KaTeX support  
+
+[[menu.main]]
+  name = "about me"
+  url = "/about"
+  weight = 1
+
+[[menu.main]]
+  name = "index"
+  url = "/index"
+  weight = 2
