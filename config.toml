@@ -1,4 +1,4 @@
-baseURL = 'https://dekuso.github.io/'
+baseURL = 'https://dekuso.blog/'
 languageCode = 'de'
 defaultContentLang = "de-de"
 title = "dekuso's blog"
@@ -17,7 +17,7 @@ copyright = "© dekuso"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "https://dekuso.github.io/index.xml"
+url = "https://dekuso.blog/index.xml"
             
 # Main menu Items
 
