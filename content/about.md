@@ -8,5 +8,5 @@ Ich schreib ab und zu hier mal ein Gedicht oder zwei. Manchmal auch längere Tex
 Freue mich, dass du hierher gefunden hast!
 
 Mein insta: [@de.ku.so](https://instagram.com/de.ku.so/) (poste mega selten!)\
-Den RSS-Feed findest du unten links in der Ecke! Das ist dieses Symbol mit dem Punkt und den zwei Wellen :)
+Den RSS-Feed findest du unten links in der Ecke! Das ist dieses Symbol mit dem Punkt und den zwei Wellen :)\
 Und hier meine [Mail](mailto:dekusosblog@protonmail.com) :)
