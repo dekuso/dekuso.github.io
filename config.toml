@@ -11,12 +11,20 @@ theme = "archie"
   mathjax = false # enable MathJax support
   katex = false # enable KaTeX support  
 
-[[menu.main]]
-  name = "about me"
-  url = "/about"
-  weight = 1
+            
+# Main menu Items
 
 [[menu.main]]
-  name = "index"
-  url = "/index"
-  weight = 2
+name = "alle posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "über mich"
+url = "/about"
+weight = 3
