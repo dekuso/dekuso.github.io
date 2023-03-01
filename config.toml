@@ -12,6 +12,12 @@ copyright = "© dekuso"
   mathjax = false # enable MathJax support
   katex = false # enable KaTeX support  
 
+# Social tags
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "https://dekuso.github.io/dekusosblog/index.xml"
             
 # Main menu Items
 
