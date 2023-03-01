@@ -1,5 +1,5 @@
 ---
-title: "Langeweile"
+title: "langeweile"
 date: 2022-11-06T17:42:51+01:00
 description: "Aus Müdigkeit wird Langeweile<br>Dann aus Langeweile Müdigkeit"
 tags: ["gedicht"]
