@@ -61,4 +61,3 @@ Sie schulterte ihren Backpacker-Rucksack.\
 Sie winkte kurz und brach dann durch den Türrahmen wieder in die Außenwelt auf.\
 Er hingegen wurde durch die Schmerzmittel schläfrig und döste wieder ein. Sein letzter Blick war wieder ein Tor in Nähe, doch dieses Mal war eine Silhouette zu sehen, die mutig voranschritt.
 
-\

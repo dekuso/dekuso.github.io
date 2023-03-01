@@ -40,6 +40,3 @@ Mit einem Ruck kam der Zug zum Stehen und die Türen öffneten sich zischend. Er
 Schließlich machte er die Schritte nach draußen und überquerte den kleinen Spalt zwischen Zug und Bahnsteig.\
 Der Regen hatte aufgehört, doch es roch noch angenehm nach seinem Besuch. Die Abendsonne hieß ihn mit einem verstohlenen Blenden in der ersten Stätte seines Abenteuers willkommen.
 
-
-
-\

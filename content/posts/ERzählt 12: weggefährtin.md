@@ -54,6 +54,3 @@ Aufregung war nicht gut oder schlecht. Aufregung war Energie. Die er für sich n
 
 Sie zündete den Motor und sie düsten los. Zum Kribbeln gesellte sich ein angenehmer Fahrtwind und das Gefühl von großer Freiheit.\
 Auf kurvigen Straßen näherten Sie sich dem erkalteten Feuerberg. 
-
-
-

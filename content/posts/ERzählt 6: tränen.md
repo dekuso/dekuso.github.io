@@ -39,5 +39,3 @@ Er musste beim Anblick der liebevoll dreinblickenden Visagen lachen und streiche
 Er hatte noch ein paar steile Wege zu wandern und wollte seine Eltern nicht beunruhigen, wo er so lange blieb. Seit dem Gespräch hatte er nur spärlich mit ihnen gesprochen, weil es ihm unangenehm war, dass er so verletzlich vor ihnen gewesen war. Aber nun hatte er verstanden, dass er genau das brauchte, dass diese Verletzlichkeit ihm die Stärke geben würde, die er sich immer gewünscht hatte.\
 Federnden Schrittes und beschwingt bestritt er seinen Weg nach Hause.\
 Zur Abwechslung würde er seinen Eltern ihr Lieblingsessen kochen. Er hatte schon alles eingekauft.
-
-\

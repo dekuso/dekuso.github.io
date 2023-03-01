@@ -42,7 +42,3 @@ Er würde weitermachen. In ihm selbst gab es die Stimme, die ihn vorantrieb.\
 Er spürte einfach, dass das die richtige Entscheidung sei. Egal, wie dumm sie zu schienen mag.
 
 Schwarz wurde zu Rot. Rot wurde zu Blau.
-
-
-
-\

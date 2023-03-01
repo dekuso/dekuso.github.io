@@ -1,7 +1,7 @@
 ---
 title: "florence"
 date: 2021-12-25T13:47:42+01:00
-description: "__Triggerwarnung: Dieser Text behandelt das Thema Suizid.__"
+summary: "__Triggerwarnung: Dieser Text behandelt das Thema Suizid.__"
 ---
 
 __Triggerwarnung: Dieser Text behandelt das Thema Suizid.__ __Wenn du selbst Gedanken in diese Richtung hast, dann wende dich an die Telefonseelsorge unter  0800 / 111 0 111 oder per Chat über die Webseite: https://www.telefonseelsorge.de/__

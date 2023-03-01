@@ -49,5 +49,3 @@ Er schloss die Augen und sah ihre blauen Augen hasserfüllt und angeekelt auf ih
 Sie blickte ihm hinterher, doch war ihr Blick besorgt, nicht abgestoßen. Sie wollte ihm helfen, aber sie konnte nicht. Sie wusste nicht, was sie sagen könnte. Selbst wenn sie noch die Nähe gehabt hätten.\
 Es tat ihr leid, aber es gab keine Schuld.\
 Einen Moment später drehte sie sich um und ging weiter. Ihre volle Einkaufstasche in der einen Hand, in der anderen ihr Einkaufszettel, auf dem alles abgehakt war.
-
-\

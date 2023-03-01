@@ -47,6 +47,3 @@ Die anderen beiden lachte. Der Boss der Gruppe spuckte zur Verabschiedung auf ih
 Sein Kumpel löste sich von seinem Opfer und stand auf. Dann verpasste er ihm noch einen Tritt ins Gesicht. Sein Kopf schnellte zur anderen Seite.\
 Er hörte, wie sich Schritte entfernten und versuchte mit aller Macht bei Bewusstsein zu bleiben.\
 Doch sein Blick wurde immer unschärfer und das letzte, was er sah, bevor er ins schwarze Nichts hinabsank, war das Ausgangstor in 30 Meter Entfernung.
-
-
-

@@ -46,8 +46,4 @@ Genau wie das liebevolle Rot am Himmel, das ihn erinnerte, dass Liebe nicht bede
 
 
 
-\
-
-
-
 

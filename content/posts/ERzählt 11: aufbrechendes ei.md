@@ -48,8 +48,3 @@ Er ließ den Blick über die Ruinen schweifen. Viel war wirklich nicht mehr übr
 
 Dann nahm er eine Bewegung aus dem Augenwinkel war. Aus Reflex folgten seine Augen diesem Instinkt und erblickten eine Person, die unter einem Torbogen durchschritt.\
 Seine Augen wurden groß. Er kannte diese Person!
-
-
-
-
-

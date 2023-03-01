@@ -34,7 +34,3 @@ Er wusste, es konnte so nicht weiter gehen.
 
 Er musste alleine sein und weg von kaltem Beton und Stein, die ihn nie verstehen würden. Er musste zu Erde, die ihn bei jedem Schritt leicht umarmte und zu Bäumen, die ihm leise raschelnd Mut zusprachen.\
 Er musste nach Hause.
-
-
-
-\

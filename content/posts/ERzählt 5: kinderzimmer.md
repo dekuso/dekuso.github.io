@@ -29,7 +29,3 @@ Er erblickte seine Musikanlage und musste schmunzeln. Er blickte hinaus und sah 
 Er machte die Musikanlage an und holte sein Handy aus der Hosentasche. Auf dem rissigen Touchscreen suchte er sich schnell einen passenden Lofi-Mix auf Youtube heraus und verband sein Handy. Die entspannenden Klänge strömten aus den Boxen und er legte sich aufs Bett, um von dort aus die letzten Minuten des Tages zu betrachten. Seine Augen wurden schwerer und schwerer und sein Atem wurde langsamer und langsamer. Bald atmete er ganz gleichmäßig und schlummerte tief im Zimmer vom Früher.\
 Der rote Himmel war nun zu einem Mosaik aus Sternen geworden und der Mond ließ sein fahles Licht durch das Fenster scheinen.\
 Er schlief so gut, wie lange nicht mehr.
-
-
-
-\
