@@ -1,4 +1,4 @@
-baseURL = 'https://dekuso.github.io/dekusosblog'
+baseURL = 'https://dekuso.github.io/dekusosblog/'
 languageCode = 'de'
 defaultContentLang = "de-de"
 title = "dekuso's blog"
