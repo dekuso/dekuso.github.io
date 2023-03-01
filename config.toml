@@ -3,6 +3,7 @@ languageCode = 'de'
 defaultContentLang = "de-de"
 title = "dekuso's blog"
 theme = "archie"
+copyright = "© dekuso"
 
 [params]
   dateFormat = "02.01.2006"
