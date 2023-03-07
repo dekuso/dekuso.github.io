@@ -60,12 +60,12 @@ das Übliche frühstücken
 etwas arbeiten
 Wäsche machen, Essen machen
 Musik in der S-Bahn hören, Augen zu und abtauchen
-den Sonnenuntergang hinter hohen Häsuern vermutend
+den Sonnenuntergang hinter hohen Häusern vermutend
 eine Probe mit einer guten Freundin, Aufregung teilen
 und verabschieden
 Essen mit [...]
 Pläne umwerfen und lieber Sex haben
-entpannt einen Film mit selbstgemachten Popcorn
+entspannt einen Film mit selbstgemachtem Popcorn
 Und
 Schlafen
 Gute Nacht, danke für Heute.
@@ -139,4 +139,4 @@ Süß allerdings nicht
 Mein Verstand genauso verklebt
 Und alles so träge
 Ich existiere zurzeit außerhalb der Zeit
-Aber was tun, wen sie wiederkommt?
+Aber was tun, wenn sie wiederkommt?
