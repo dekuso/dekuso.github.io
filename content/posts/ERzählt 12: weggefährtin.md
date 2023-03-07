@@ -3,6 +3,7 @@ title: "ERzählt 12: weggefährtin"
 date: 2021-07-05T20:15:38+01:00
 description: "Kennen war vielleicht übertrieben."
 tags: ["ERzählt"]
+slug: "erzaehlt-12-weggefaehrtin"
 ---
 
 Kennen war vielleicht übertrieben. Aber bekannt könnte man schon sagen.\

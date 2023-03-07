@@ -3,6 +3,7 @@ title: "ERzählt 10: queste"
 date: 2021-06-21T11:55:32+01:00
 description: "Er starrte aus dem Fenster.<br>Blau wurde zu Orange. Orange wurde zu schwarz.<br>"
 tags: ["ERzählt"]
+slug: "erzaehlt-10-queste"
 ---
 
 Er starrte aus dem Fenster.\

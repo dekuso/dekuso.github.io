@@ -3,6 +3,7 @@ title: "ERzählt 7: reise"
 date: 2021-05-31T18:57:09+01:00
 description: "Der Zug kündigte sein Ankommen mit lautem Quietschen der Bremsen an und kam langsam zum Stehen."
 tags: ["ERzählt"]
+slug: "erzaehlt-7-reise"
 ---
 
 Der Zug kündigte sein Ankommen mit lautem Quietschen der Bremsen an und kam langsam zum Stehen.\

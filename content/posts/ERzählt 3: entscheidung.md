@@ -3,6 +3,7 @@ title: "ERzählt 3: entscheidung"
 date: 2021-05-03T05:40:41+01:00
 description: "»Fuck. Fuck. Fuck. Fuck. Fuck. Fuck.«<br>"
 tags: ["ERzählt"]
+slug: "erzaehlt-3-entscheidung"
 ---
 
 »Fuck. Fuck. Fuck. Fuck. Fuck. Fuck.«\

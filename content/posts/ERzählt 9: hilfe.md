@@ -3,6 +3,7 @@ title: "ERzählt 9: hilfe"
 date: 2021-06-14T21:41:04+01:00
 description: "Vogelgezwitscher weckte ihn. "
 tags: ["ERzählt"]
+slug: "erzaehlt-9-hilfe"
 ---
 
 Vogelgezwitscher weckte ihn. Die ersten Sonnenstrahlen hatten die fliegenden Bewohner der Erde geweckt, die jetzt ihren Teil taten, dass jeder den nächsten Tag auch ja nicht verschlafe.\

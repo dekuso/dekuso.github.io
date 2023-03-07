@@ -3,6 +3,7 @@ title: "ERzählt 4: lichtbüschel"
 date: 2021-05-10T17:55:14+01:00
 description: "Der Zug fuhr ein. Mit ihm standen nur 4 andere Leute auf dem Bahnsteig."
 tags: ["ERzählt"]
+slug: "erzaehlt-4-lichtbueschel"
 ---
 
 Der Zug fuhr ein. Mit ihm standen nur 4 andere Leute auf dem Bahnsteig.\

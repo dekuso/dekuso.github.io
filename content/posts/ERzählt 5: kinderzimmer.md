@@ -3,6 +3,7 @@ title: "ERzählt 5: kinderzimmer"
 date: 2021-05-17T15:19:21+01:00
 description: "Er nahm ihm sein Halsband ab und wischte mit einem Handtuch über seine dreckigen Pfoten."
 tags: ["ERzählt"]
+slug: "erzaehlt-5-kinderzimmer"
 ---
 
 Er nahm ihm sein Halsband ab und wischte mit einem Handtuch über seine dreckigen Pfoten. Mit dem Leckerli im Maul konnte er es kaum erwarten, endlich in die Wohnung zu kommen. Sein Schwanz verriet seine Aufregung.\

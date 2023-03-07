@@ -3,6 +3,7 @@ title: "ERzählt 6: tränen"
 date: 2021-05-24T17:14:09+01:00
 description: "Er war nun schon seit zwei Wochen bei seinen Eltern."
 tags: ["ERzählt"]
+slug: "erzaehlt-6-traenen"
 ---
 
 Er war nun schon seit zwei Wochen bei seinen Eltern. Die Spaziergänge mit dem Hund heilten ihn Stück für Stück und auch sein Lieblingsessen schmeckte ihm immer wieder.

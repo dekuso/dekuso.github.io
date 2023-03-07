@@ -3,6 +3,7 @@ title: "ERzählt 2: supermarkt"
 date: 2021-03-01T00:41:52+01:00
 description: "## abend<br><br>17:02 Uhr<br><br>Er schloss die Badezimmertür hinter sich und begab sich auf den Weg zur Küche. <br>"
 tags: ["ERzählt"]
+slug: "erzaehlt-2-supermarkt"
 ---
 
 ## abend

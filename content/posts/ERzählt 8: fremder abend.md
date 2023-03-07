@@ -3,6 +3,7 @@ title: "ERzählt 8: fremder abend"
 date: 2021-06-07T15:02:46+01:00
 description: "Er schaute nach dem Ausgang."
 tags: ["ERzählt"]
+slug: "erzaehlt-8-fremder-abend"
 ---
 
 Er schaute nach dem Ausgang. Die Schilder waren alle unverständlich beschriftet, doch die Symbole halfen ihm, die Treppe nach unten zu finden.\

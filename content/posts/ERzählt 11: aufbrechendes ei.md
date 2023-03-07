@@ -3,6 +3,7 @@ title: "ERzählt 11: aufbrechendes ei"
 date: 2021-06-29T20:18:36+01:00
 description: "Nach drei langen Tagen wurde er endlich entlassen. "
 tags: ["ERzählt"]
+slug: "erzaehlt-11-aufbrechendes-ei"
 ---
 
 Nach drei langen Tagen wurde er endlich entlassen. Nach dem ersten niedergeschlagenen Tag, hatte sich die Freude und Aufregung auf die Weiterreise in den folgenden zwei immer weiter aufgebaut. Als er nun also die Mitteilung bekam, er könne gehen, hielt er es kaum aus, die letzten Formulare auszufüllen.\

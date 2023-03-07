@@ -3,6 +3,7 @@ title: "ERzählt 1: nachtzimmer"
 date: 2020-12-17T22:44:28+01:00
 description: "## nacht<br><br>Er betrachtete die Decke seines Zimmers."
 tags: ["ERzählt"]
+slug: "erzaehlt-1-nachtzimmer"
 ---
 
 ## nacht
