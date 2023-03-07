@@ -68,7 +68,7 @@ Pläne umwerfen und lieber Sex haben
 entpannt einen Film mit selbstgemachten Popcorn
 Und
 Schlafen
-Gute Nach, danke für Heute.
+Gute Nacht, danke für Heute.
 
 # 14.1
 
