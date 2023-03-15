@@ -3,6 +3,7 @@ title: "Ende_erzaehlt"
 date: 2023-03-15T20:17:33+01:00
 tags: ["ERzählt"]
 slug: "erzaehlt-ende"
+description: ""
 ---
 
 Viel war passiert. Nach 2 Jahren stand er wieder vor seiner alten Wohnung. Vor dem Haus seiner Wohung. Er wohnte dort nicht mehr, hatte sie unterwegs mit Hilfe seiner Eltern gekündigt.
