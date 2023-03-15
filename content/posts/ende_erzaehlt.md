@@ -1,5 +1,5 @@
 ---
-title: "Ende_erzaehlt"
+title: "ERzählt: Ende"
 date: 2023-03-15T20:17:33+01:00
 tags: ["ERzählt"]
 slug: "erzaehlt-ende"
