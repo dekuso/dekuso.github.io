@@ -1,6 +1,6 @@
 ---
 title: "Februargedichte"
-date: 2023-07-03T22:23:00+01:00
+date: 2023-07-03T22:23:00+02:00
 draft: false
 summary: "_Gedichte aus dem Februar 2023_"
 tags: ["gedicht"]
