@@ -41,3 +41,73 @@ beraubt die Funktion\
 eines Aufzugs\
 mutig, Kleiner
 
+# 14.4
+
+Wir malen mit unseren Körpern\
+Färben mit unserer Stimme\
+Erspüren das Unfassbare\
+Es ist wie\
+die Welt wieder zurück entdecken
+
+# 18.4
+
+Ein großer Betonplatz\
+leer von Menschen\
+vereinzelt Bäume\
+Inseln der Natur\
+getrennt voneinander\
+unter dem Stein\
+geben sie sich vielleicht die Hand
+
+# 19.4
+
+es schleicht sich wie von hinten\
+nach vorne\
+ein Gedanke\
+setzt dir eine Brille auf\
+wie ein Schwimmer\
+und du tauchst ab\
+mit Körper\
+in den Tatendrang
+
+# 23.4
+
+Im hässlichen Kantbau\
+direkt am Wasser\
+liegt das Schöne\
+vergessen, verachtet\
+aber trotzdem eine Strahlkraft
+
+# 26.4
+
+Taubentanz\
+Plié\
+Plié\
+Drehung nach links, der Kopf führt\
+Gurren\
+Der Gegenspieler kommt\
+Zerstäuben
+
+# 27.4
+
+Bürokratisches Warten\
+Gleichförmiges Atmen\
+Sätze im Singsang\
+Wann bin ich dran?\
+Meine Nummer blinkt\
+ich gehe geschwind\
+Papiere einreichen\
+und unterschreiben
+
+# 28.4
+
+Es riecht nach Regen\
+Wieder Angst, mich zu verändern
+
+# 30.4
+
+Sonnenschein und strahlende Jacke\
+Die Sonnenbrille verleiht allem\
+einen warmen weichen Filmton\
+DIe U-Bahn voller Menschen,\
+ein brummiges Hummeln überall
