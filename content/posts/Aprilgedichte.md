@@ -1,7 +1,6 @@
 ---
 title: "Aprilgedichte"
 date: 2023-09-11T22:24:22+02:00
-draft: true
 summary: "_Gedichte aus dem April 2023_"
 tags: ["gedicht"]
 ---
@@ -109,5 +108,5 @@ Wieder Angst, mich zu verändern
 Sonnenschein und strahlende Jacke\
 Die Sonnenbrille verleiht allem\
 einen warmen weichen Filmton\
-DIe U-Bahn voller Menschen,\
+Die U-Bahn voller Menschen,\
 ein brummiges Hummeln überall
